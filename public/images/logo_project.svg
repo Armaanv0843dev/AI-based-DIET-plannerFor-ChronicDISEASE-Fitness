@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="18" fill="#0b2430" />
+  <circle cx="44" cy="58" r="22" fill="url(#g)" />
+  <path d="M72 40c6 0 12 6 12 12s-6 12-12 12-12-6-12-12 6-12 12-12z" fill="#fef3c7" />
+  <text x="60" y="106" font-family="Alegreya, serif" font-size="10" fill="#d1fae5" text-anchor="middle">ChronoDietAI</text>
+</svg>

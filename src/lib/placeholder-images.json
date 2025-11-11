@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A vibrant spread of healthy foods.",
+      "imageUrl": "https://picsum.photos/seed/chronodiet/1200/600",
+      "imageHint": "healthy food"
+    },
+    {
+      "id": "diet-plan-visual",
+      "description": "A colorful plate of balanced food.",
+      "imageUrl": "https://picsum.photos/seed/plate/400/300",
+      "imageHint": "balanced diet"
+    },
+    {
+      "id": "meal-plan-visual",
+      "description": "Fresh vegetables on a wooden table.",
+      "imageUrl": "https://picsum.photos/seed/veg/400/300",
+      "imageHint": "fresh vegetables"
+    },
+    {
+      "id": "food-swap-visual",
+      "description": "An apple and a doughnut side-by-side.",
+      "imageUrl": "https://picsum.photos/seed/swap/400/300",
+      "imageHint": "healthy choice"
+    }
+  ]
+}
