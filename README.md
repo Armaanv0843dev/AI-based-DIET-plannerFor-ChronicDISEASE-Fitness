@@ -44,7 +44,7 @@ ChronoDietAI is a modern, AI-powered diet planning app designed for users with c
    ```sh
    npm run dev
    ```
-   - App will be available at [http://localhost:3000](http://localhost:3000)
+   - App will be available at [http://localhost:3000](http://chrono-diet-ai.vercel.app)
 
 ## Usage
 - **Step 1:** Complete your profile (age, gender, health, fitness goal, etc.).
